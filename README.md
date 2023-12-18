@@ -25,6 +25,8 @@ Anomaly detection is a valuable instrument for cloud platform administrators who
 
 A project such as this provides a reference implementation of a Cloud Dataflow streaming pipeline that integrates with BigQuery ML, Cloud AI Platform, to detect anomalies. A critical component of the implementation utilises Dataflow for feature extraction and real-time outlier detection.
 
+![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/258e896b-5605-464c-bd62-3f5a8a581419)
+
 
 ## Project 5
 ### 4: Image Caption Generator
