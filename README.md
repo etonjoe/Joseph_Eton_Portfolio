@@ -27,6 +27,8 @@ A project such as this provides a reference implementation of a Cloud Dataflow s
 
 ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/258e896b-5605-464c-bd62-3f5a8a581419)
 
+By: https://www.linkedin.com/learning/learning-bigquery/the-bigquery-cost-structure?autoSkip=true&resume=false&u=83075154
+Kishan Iyer, Content Engineer, DevOps, and Google Cloud Platform Power user
 
 ## Project 5
 ### 4: Image Caption Generator
