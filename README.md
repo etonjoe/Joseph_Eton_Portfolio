@@ -10,6 +10,9 @@ To keep tabs on and manage things like traffic and transportation systems, power
 
 Several governing bodies, locally & internationally, are striving to achieve smart city status as we speak.
 
+![Tools](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/9e929612-10b4-4980-8c5b-4cc9a7c3254d)
+
+
 
 ## Project 3
 
