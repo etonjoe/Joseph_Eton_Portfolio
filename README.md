@@ -21,6 +21,9 @@ One of the most innovative ideas for a big data project is presented here. The p
 
 Large amounts of data play an enormous part in this because holiday makers use the internet and other technologies when they are away from home, leaving digital traces that can be easily collected and distributed. The vast majority of this data comes from social media platforms. It is just too much for a conventional database to manage which is why big data analytics is needed. The data is pooled from multiple sources and can be used by companies in the hotel, airline and tourism wider industry to market their products & services and to expand their client base. It can also help to build a comprehensive picture of current and future trends that help them to forecast effectively.
 
+![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/f78b6c70-8240-41ba-aaaa-5c74dcf32291)
+
+
 
 ## Project 4
 ### 3: Anomaly Detection In Cloud Servers
