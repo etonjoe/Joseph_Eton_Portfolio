@@ -41,3 +41,21 @@ Kishan Iyer, Content Engineer, DevOps, and Google Cloud Platform Power user
 The significance of digital marketing and attention-grabbing content is essential in the modern age. To aid equality and engagement digital content should be accompanied by subtitles. Large datasets containing photos and captions that are correlated must be managed. Image processing and deep learning are used to comprehend the image, and artificial intelligence is used to generate relevant and accurate captions. Python source code, for Big Data, can be written for purpose.
 
 This one is not for the faint hearted and is certainly one of the more “advanced” of the project ideas.
+
+languages
+Jupyter logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/d6db9e88-2b44-48b5-a9cb-7ec8c2a168a9)
+
+TensorFlow logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/13f18010-9d9a-4ca4-a869-83ec19e34626)
+
+PyTorch logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/6e6b43aa-049a-45a2-893d-c18eab240273)
+
+MXNet logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/a339ad13-32a6-47bc-a38d-7a037d3e7cae)
+
+Hugging Face logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/e8da7ee6-2bb2-4fae-894e-b2b61b1490a4)
+
+Scikit-learn logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/c055c806-cc43-4240-938e-2c2524b1dd76)
+
+Python logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/e74ac7bc-67a4-423a-bafc-ffad0e34932a)
+
+R logo ![image](https://github.com/etonjoe/Joseph_Eton_Portfolio/assets/5099886/155d3ae1-d65e-4038-bcd7-1c50d83bc41b)
+
